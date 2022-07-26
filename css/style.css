@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&display=swap');
+* {
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    color: black;
+    font-size: 1em;
+}
+
+.font-1-5 {
+    font-size: 1.5em;
+    color: rgb(0, 2, 105);
+}
+
+.font-2-0 {
+    font-size: 2.0em;
+    color: rgb(83, 2, 50);
+}
+
+.font-2-5 {
+    font-size: 2.5em;
+    color: rgb(46, 12, 68);
+}
